@@ -1,0 +1,1571 @@
+CAT
+Geef het principeschema voor de bepaling van een analiet (MG 100 g/mol) in een tablet.
+De belangrijkste stappen zijn oplossen, affiltreren van interferenten, verdunnen van het moederloog en inspuiten in HPLC.
+Je werkt met standaardadditie.
+Neem een bepaalde concentratie in je tablet aan voor de schatting van je verdunning.
+Neem een bepaalde meetwaarde en reken die om naar het analyseresultaat in ppm.
+Bespreek de systematische en toevallige fouten bij de analyse.
+END
+
+CAT
+Bespreek de extractie van M^n+ uit water met dithizone in chloroform in functie van de pH.
+Maak een schets voor verschillende kationen en bespreek.
+Waarvoor kun je het gebruiken?
+END
+
+CAT
+Waarom is de pH-berekening van een 0.1 M azijnzure buffer verschillend van deze voor een oplossing van 0.1 M?
+END
+
+CAT
+Schets het pH-verloop van de titratie van 20 mL mengsel van 1.2 .10-3 M sterke base en 9.10-4 M zwakke base met 10-3 M sterk zuur. Bereken ook de pH bij toevoeging van 35 mL titrant. Wat verandert er aan de curve als de concentraties van analiet en titrant 10x hoger is?
+END
+
+CAT
+Bespreek de belangrijkste aspecten van een HPLC instrument. Kies uit je overzicht van versies voor een bepaald onderdeel telkens 1 om meer gedetailleerd te beschrijven.
+END
+
+CAT
+Bespreek de wet van Lambert-Beer en de regel van additiviteit. Geef ook enkele redenen waarom we een extinctiecoëfficiënt bepalen via een ijklijn en er niet één uit de literatuur nemen.
+END
+
+CAT
+Bespreek de AFC-methode
+END
+
+CAT
+Waarom werkt een buffer wel met een zwak zuur en zijn zout, maar niet met een sterk zuur en zijn zout?
+END
+
+CAT
+Bespreek de fotonemissie en –absorptie en geef het energiediagram.
+END
+
+CAT
+Geef het principeschema voor de bepaling van een analiet (MG=100 g/mol) in een waterige oplossing. Je recupereert het analiet via extractie ether. Neem aan dat de extractie volledig is na twee keer schudden met gelijke volumes boven- en onderfase. Je verdunt het gecombineerde extract voor de analyse met fluorimetrie. Je werkt met externe standaardadditie. Neem een bepaalde concentratie in je oplossing aan voor de schatting van je verdunning. Neem een bepaalde meetwaarde en reken die om naar het analyseresultaat in ppm. Bespreek de systematische en toevallige fouten bij deze analyse.
+END
+
+CAT
+Je wilt een base (pKb = 6 en C= 10-3M) titreren met sterk zuur. Gaat dat en hoe? Kun je een visuele titratie uitvoeren en welke indicator gebruik je dan? Schets de curve en geef ook aan hoe de curve verandert als ge de concentratie analiet en titrant 10x doet.
+END
+
+CAT
+principeschema ongeveer: A gekregen MG (100 g/mol) in waterige oplossing recup via extractie met ether (scheitrechter) extract verdunnen en UV, standaardadditie bep. concentratie in oplossing aannemen voor schatting verdunning neem bepaalde meetwaarde en reken die om naar het analyseresultaat in ppm foutenanalyse
+END
+
+CAT
+verdelingscurve diprotisch zuur (c=0,01M)
+END
+
+CAT
+energiediagram
+END
+
+CAT
+pH verloop titratie van 20 mL 10^-3 M polyprotisch zuur (pKa 4 & 8) met 10^-3M sterke base en bereken de pH bij toevoeging van 37 mL titrant. Geef aan wat er zou veranderen aan de curve alsde concentratie vd analieten en het titrant een factor 10 hoger zou zijn
+END
+
+CAT
+een vraag over methodologische optimalisatie
+END
+
+CAT
+concentratie van Na+ in serum wordt gemeten met AAS en geeft signaal van 4,27 mV. We doen 10ml 2,08M NaCl in een maatkolf van 100 mL en lengen aan met serum => meten dan 7,98 mV => weten we nu de conc Na+ in het serum ?
+END
+
+CAT
+je hebt een buffer gemaakt door 12,43 g tris(98%) en 4,67g tris.HCl(99%) op te lossen in 1L. Hoeveel bedraagt de pH vooraleer en nadat je 12ml 1M HCl hebt toegevoegd.
+END
+
+CAT
+een monster zuiver carbonaat met gewicht 0,2301g wordt opgelost in 50 ml 0,1140 M Hc en aan de kook gebracht. De overmaat HCl wordt teruggetitreerd met 24,21 mL 0,09802 M NaOH. over welk carbonaat gaat het?
+END
+
+CAT
+een oplossing van I2 stel je de oertiterstof As4O6 opgelost in zuur milieu. Je lost 0,3663 g op in 100 ml. Daarvan titreer je 25 ml met 21,77 ml van de I2-oplossing die je moest stellen. Wat is de concentratie van die I2-oplossing.
+END
+
+CAT
+druk de bandbreedte ven een distributie uit in sigma, a) aan de basis ia de raaklijnen aan de buigpunten, b) op 25% van de max hoogte. Welke fractie van het analiet wordt gerecupereerd indien we de cellen leegmaken binnen de bandbreedte op 40 %
+END
+
+CAT
+Bespreek de paradox van de neerslag.
+END
+
+CAT
+Bespreek het analytisch gebruik, de voor- en nadelen van UV-absorptiespectrometrie en fluorimetrie.
+END
+
+CAT
+Schets de titratiecurve van een polyprotisch zuur (pKa’s zijn 4 en 8), waarbij je start met 20 mL 10-3 M zuur, dat je titreert met 10-3 M sterke base. Schets het effect op de titratiecurve als beide oplossingen een factor 10 geconcentreerder zouden zijn. Bereken de pH na toevoeging van 35 mL titrant
+END
+
+CAT
+Bespreek de verschillende onderdelen van het HPLC instrument. Kies uit je overzicht telkens één onderdeel om verder te bespreken.
+END
+
+CAT
+Stel het experimenteel schema op voor de analyse van een analiet in een tablet via GC en met externe calibratie.
+END
+
+CAT
+Waarom gebruik je bij de pH berekening van een mengsel van NaOH (0.01 M) en Na-acetaat (0.1 M) (de pKa van HAc werd ook gegeven) de formule van een sterke base en hoe bewijs je dat? (Het
+END
+
+CAT
+Schets de titratiecurve van een mengsel van een sterke base en een monoprotische zwakke base dat met HCl wordt getitreerd en teken de veranderingen als zowel de basen als het titrant de concentratie een factor 10 hoger zou zijn. Gegeven: de concentraties en een begin volume. Bereken hiermee de pH nadat je 35mL HCl had toegevoegd (Dit punt ligt in het buffergebied en de formule van Henderson-Hasselbalch kon niet gebruikt worden)
+END
+
+CAT
+Geef een overzicht van alle chromatografische methoden (kolom, plaatgetal, soort solvent, soort analiet, etc.)
+END
+
+CAT
+Geef de wet van Lambert-Beer en de regel van additiviteit + verklaar en geef een paar redenen waarom jouw extinctiecoëfficiënt anders is dan die van in de literatuur
+END
+
+CAT
+Geef het principeschema voor de bepaling van een analiet (MG 100 g/mol) in een tablet. De belangrijkste stappen zijn oplossen, affiltreren van interferenten, verdunnen van het moederloog en inspuiten op de GC. Je werkt met standaardadditie. Neem een bepaalde concentratie aan in het tablet voor de de schatting van je verdunning. Neem een bepaalde meetwaarde aan en reken die om naar het analyseresultaat in ppm. Bespreek de systematische en toevallige fouten bij deze analyse.
+END
+
+CAT
+Gegeven twee (hypothetische) analieten met pKa = 6 en pKa = 9. Ga via de verdelingscurves na of je de twee kan scheiden door extractie.
+END
+
+CAT
+Teken en verklaar het absorptie- en fluorimetriespectrum.
+END
+
+CAT
+Je titreert een diprotisch zuur met een sterke base. Wat gebeurt er bij verdunning? Gebruik je indicatoren om het eindpunt te bepalen of doe je dit potentiometrisch?
+END
+
+CAT
+Bespreek de methodologische optimalisatie van HPLC.
+END
+
+CAT
+Analiet in 100mL waterige oplossing, 1x extractie met 40mL Hexaan. Onderfase aanlengen tot 100mL en 2x verdunnen met 1mL aan te lengen tot 100mL. Hiervan zijn de gemeten absorptie & extinctiecoëfficiënt zijn gegeven. Bepaal recuperatierendement en K
+END
+
+CAT
+Bepaal pH van mengsel NaOH 0,01M en RNH2 0,04M (pKa=10)
+END
+
+CAT
+Mengsel van acetaldehyde en ethylacetaat in ethanol (0,804g/mL)
+END
+
+CAT
+CU2+ zout van 2,206g oplossen in 250mL en 50mL hiervan behandelen met 1g KI, overschot titreren met een oplossing Na2S2O3. Bepaal %Cu
+END
+
+CAT
+Analtiejes A & B met K_A = 0,7 & K_B= 1,5 lopen over 300 cellen. Bepaal aantal cellen die overlappen na 300 transfers. Bepaal aantal transfers nodig om maxima te detecteren. Bepaal aantal transfers voor 100% zuiverheid
+END
+
+CAT
+principeschema 100g/mol analiet in tablet uiteindelijk in HPLC, analytisch resultaat berekenen
+END
+
+CAT
+waarom ijklijn voor extinctiecoeff opstellen bij UV en niet uit boeken
+END
+
+CAT
+titratie curve en alles erop en eraan van zwak base met sterk zuur + op je krijgt dan de Kb van een zwak zuur en concentratie en dan zeggen of je indicator of potentiometrisch het EP gaat bepalen
+END
+
+CAT
+redoxvraag van Ce met Fe voor bepaling van nitriet
+END
+
+CAT
+waarop moet je letten als je een kolom koopt voor a) GC, b) HPLC, c) AFC, d)IC, e)SEC,... kortom alle chromatografie...
+END
+
+CAT
+principe schema analiet met stand additie en UV (procent erbij zetten!)
+END
+
+CAT
+foton- absorptie en emissie schema+uitleg
+END
+
+CAT
+titratiecurve sterk zuur + base. en pH bij bepaalde ml bepalen (denk aan het water!)
+END
+
+CAT
+Iets met S2- + Cu(ClO4)2 in acetaatbuffer. Toevoegen van ammoniak en titratie met EDTA. Reacties schrijven. Mag er ook SO4 2- zijn? Waarom geen NaOH?
+END
+
+CAT
+principe schema analiet met standaard additie en GC
+END
+
+CAT
+Analytisch gebruik UV en fluorimetrie, voor-en nadelen
+END
+
+CAT
+titratie diprotische zwakke base met sterk zuur, eigenschappen(vorm, grootte ph sprong,...) stel pKb1 = 5, pKb2 = 8, kan je deze titreren met 0.01M zuur? Met welke indicator? Mogelijk potentiometrisch?
+END
+
+CAT
+alkenen kan je identificeren door reactie met Br2, dit is echter onstabiel. Daarom gebruik met een oplossing van Br- en KBrO3, deze laatste is een oertiterstof. Stappen: analietoplossing met overmaat Br- en ook KBrO3 toevoegen. Daarna I- toevoegen. Ten slotte titreren met NA2S2O3. Geef de verschillende stappen en welke hoeveelheden/overmaten moet je kennen om tot een conclusie te komen?
+END
+
+CAT
+SEC methode
+END
+
+CAT
+Principeschema analiet in HPLC met externe calibratie
+END
+
+CAT
+UV-absorptie instrumentatie
+END
+
+CAT
+Titratiecurve mengsel zwak en sterk zuur: eigenschappen, wat bij 10x verdunnen,... pH Uitwerken bij toevoeging van 32 mL 0,01 M NaoH, 20 mL 0,01M zwak en 0.01M sterk zuur
+END
+
+CAT
+Redoxreactie met TI, KCrO4 en Fe2+
+END
+
+CAT
+Alle aspecten en eig van HPLC uitleggen, + voor elk domein 1 in detail
+END
+
+CAT
+Vraag 36. Ook weten hoe je de referentie maakt.
+END
+
+CAT
+Bespreek de methodologische optimalisatie van HPLC
+END
+
+CAT
+Geef wet van Lambert-Beer en bespreek de additiviteit
+END
+
+CAT
+Bespreek de titratiecurve van een zwakke base en een sterk zuur. Bespreek de pH-sprong, titratiefout, ... . Wat als de concentratie van het base en het zuur met een factor 10 daalt? Bereken ook de pH als je 12ml 0,01 M HCl toevoegt aan 20ml 0,01 M base (pKa is gegeven).
+END
+
+CAT
+Sulfiet gehalte in wijn bepalen door 50ml wijn toe te voegen aan 5ml KI en KIO3. Daarna toevoeging van H2SO4 en titreren met thiosulfaat. Geen de reacties en zeg welke concentraties je precies moet weten. Blijkbaar iets met terugtitratie.
+END
+
+CAT
+Principe schema analiet tablet (100g/mol): Standaardadditie, UV. + Hoe maak je je referentiemengsel aan
+END
+
+CAT
+bsorptie VS Fluorescentiespectrum (spiegelbeeld+verschuiving)
+END
+
+CAT
+Kwalitatieve bespreking titratie curve diprotisch zwak zuur (pKa1=5, pKa2=8) met sterke base. Bereken (!) de titratiefout (dan zal je merken dat je geen indicator kan gebruiken) Geef aan wat
+gebeurt als je analiet- en titrantconcentratie verlaagt met factor 10. Bespreek vorm, grootte pH-sprong, indicatorfout en berekening bij EP
+END
+
+CAT
+Bepaal TI aanwezig als TI+ in oplossing waarbij overmaat K2Cr04 wordt toegevoegd, TI2CrO4 slaagt neer, los deze terug op met verdund H2SO4. Vervolgens titreer je met Fe2+ (redox!)
+END
+
+CAT
+Bespreek AFC
+END
+
+CAT
+Principe schema, externe cal en HPLC
+END
+
+CAT
+Waarom toch ijklijn maken bij UV al heb je al een extinctie coeff.?
+END
+
+CAT
+zwak zuur en sterke base. Titratiecurve, pH sprong, hoe pH bij EP berkenen. Stel pKa=6 en conc=10^-6 voor zwakke zuur kan je het dan doen met vol titratie? zo ja welke indicator. (via titratiefout en die zou 0,9 mL moete zijn dus te groot dus potentiometrische titratie doen)
+END
+
+CAT
+redox. TI+ met KCrO4 wordt TI2CrO4 (neerslag). oplossen in H2SO4. Dan titreren met Fe2+. Welke concentraties moet je kennen om de hoeveelheid TI+ te kennen.
+END
+
+CAT
+Principe schema, standaardadditie en HPLC
+END
+
+CAT
+Wet van Lambert-Beer en de regel van additiviteit. Bespreek UV absorptiespectrometrie adhv van een mengsel.
+END
+
+CAT
+Bespreek kwalitatief de titratiecurven van een zwakke base en een sterk zuur. Vorm, grootte van de pH-sprong, indicatorfouten, berekening van de pH bij het EP, voorwaarde om te titreren. Wat als zowel base als zuur een factor 10 verdund worden? Kan je een zwak zuur(pKb=6, 10^-3M) + een sterke base titreren? Zo ja met welke indicator? Of moet je potentiometrische titratie toepassen?
+END
+
+CAT
+Oefening: Geef de reacties + vermeld van welke componenten je de hoeveelheid en concentratie absoluut nodig hebt om het gehalte aan sulfiet in wijn te bepalen. Twas iets van 50mL wijn(sulfiet) +KIO3+KI(overmaat)+zwavelzuur in een pot en dat titreren met thiosulfaat in een zetmeelindicator.
+END
+
+CAT
+Bespreek de SEC methode.
+Principeschema: oplossen, affiltreren, verdunnen, UV, externe callibratie + toevallige en systematische fouten
+END
+
+CAT
+Analytisch gebruik van absorptiespectrofotometrie en fluorimetrie + voordelen en nadelen van beide methoden
+END
+
+CAT
+Kwalitatief titratiecurve (voorwaarden, belangrijke punten, concentratie met factor 10 kleiner, indicatorfouten, ...) van diprotisch zwak zuur (pKa 4 en 9) met sterke base + pH berekening van 12mL 0.01M H2A en 8mL 0.01M NaOH (systematische bufferformule gebruiken)
+END
+
+CAT
+Oefening: Br2 wordt gebruikt om het aantal dubbele bindingen in een molecule te kwantificeren. Br2 is echter geen oertiterstof terwijl KBrO3 dit wel is. In een eerste stap wordt bij KBrO3 een overmaat aan Br- toegevoegd om Br2 te bekomen. Het boeltje wordt getitreerd met een overmaat aan I-. Wat er na deze reactie ontstaat, wordt getitreerd met NaS2O3. Schrijf alle reacties op, en bepaal ook van welke stoffen je het gebruikte volume en de gebruikte concentratie moet kennen om het analytisch resultaat te bepalen.
+END
+
+CAT
+Bespreek de instrumentatie van HPLC, en haal voor elk onderdeel één mogeljkheid uit je lijstjes om uitgebreider te bespreken
+END
+
+CAT
+Geef het principeschema voor de bepaling van een analiet (MG 100 g/mol) in een tablet. De belangrijkste stappen zijn oplossen, affiltreren van interferenten, verdunnen van het moederloog en inspuiten in HPLC. Je werkt met standaardadditie. Neem een bepaalde concentratie in je tablet aan voor de schatting van je verdunning. Neem een bepaalde meetwaarde en reken die om naar het analyseresultaat in ppm. Bespreek de systematische en toevallige fouten bij de analyse.
+END
+
+CAT
+Bespreek de extractie van M^n+ uit water met dithizone in chloroform in functie van de pH. Maak een schets voor verschillende kationen en bespreek. Waarvoor kun je het gebruiken?
+END
+
+CAT
+Bespreek de Van Deemter vergelijking en illustreer het gebruik van de Van Deemter plot bij de optimalisatie van een scheiding. Bij welke methode heb je welke bijdrage?
+END
+
+CAT
+Bespreek kwalitatief de titratiecurven van een zwakke base met een sterk zuur: vorm, grootte van de pH-sprong, indicatorfouten, berekening van de pH bij EP, voorwaarden op te titreren. Geef aan waar je welke strategie gebruikt om de pH te berekenen.
+END
+
+CAT
+Teken kwalitatief hoe een mottige scheiding op gepakte kolom met tailing verandert bij het gebruik van
+a) een langere kolom
+b) een meer efficiënte kolom
+c) een meer selectieve kolom
+d) een meer gedesactiveerde kolom
+Hoe kan men b) en c) verkrijgen?
+END
+
+CAT
+principe schema (analiet in water opgelost extraheren met ether, HPLC met standaardadditie)
+END
+
+CAT
+Buffers: -hoe pH berekenen van buffers die geconcentreerd genoeg zijn.
+- wat gebeurd er met pH als je: sterke base/sterk zuur toevoegd, verdund
+- Hoe maak je praktisch een buffer + 3 systematische fouten waardoor pH niet overeenkomt met theorie.
+END
+
+CAT
+Een figuur van een HPLC opstelling (je moet herkennen dat het een HPLC opstelling is). Componenten van de opstelling benoemen + kort uitleggen
+END
+
+CAT
+Titratie van een sterke base met een sterk zuur kwalitatief bespreken (alles erop en eraan: vorm, pH bij EP, titratiefout, voorwaarden voor titreren, wat gebeurd als je een factor 10 verdund, ...)
+END
+
+CAT
+Geef oorzaken van piekverbreding bij chromatografie en hoe je ze kan verhelpen.
+END
+
+CAT
+pH bepalingen van 0.09M KHSO4 oplossing (pKa's uiteraard gegeven)
+END
+
+CAT
+Concentratiebepaling met behulp van UV spectroscopie ( c berekenen, en terugrekenen want verschillende verdunningsstappen)
+END
+
+CAT
+Oefening op standaardadditie met UV spectroscopie. Fe3+ bepaling in water. In elke beker 10mL monster, 0 1 5 10 20 mL van een 11.1 Fe3+ oplossing, aanlengen met SCN-. Verschillende A's zijn gegeven.
+END
+
+CAT
+Bepaal voor een twee-waardig zuur de alfa HA-. Verklaar ook of deze component zuiver getitreerd kan worden door gebruik te maken van de verdelingscurven.
+END
+
+CAT
+Geef kwalitatief de redoxtitratiecurve van Fe(2+) en Ce(4+), geef ook de formule voor het berekenen van de potentiaal op het equivalentiepunt
+END
+
+CAT
+Leg het concept van bandverbreding uit. Met welke factoren moet rekening worden gehouden als er wordt gewerkt met capillaire kolommen.
+END
+
+CAT
+Vergelijken van verscheidene analysetechnieken aan de hand van een gegeven tabel.
+END
+
+CAT
+Flame-Absorption, Furnace absoprtion, Plasma E
+-Verklaar waarom ze een verschillende reproduceerbaarheid hebben op korte termijn.
+-Verklaar de aanwezige interferenties voor elke analysetechniek.
+-Verklaar het verschil in analyseduur.
+- Verklaar het verschil in monsterhoeveelheden die moeten worden toegevoegd.
+- Verklaar het verschil in kostprijs voor de verscheidene technieken.
+END
+
+CAT
+Bepaal de fractie van de volledig geissocieerde vorm van malëinezuur en teken de verdelingsfunctie als je de pKa's weet. Duid ook de pH-range aan waarin de indicator zijn omslagpunt moet hebben.
+END
+
+CAT
+Geef een uitdrukking voor D voor de pH-gevoelige extractie van een kation met een zuur waarin alleen grootheden staan die meetbaar zijn. Schrijf de reacties en evenwichtsconstanten en teken de grafiek voor verschillende kationen. Waarom heeft de grafiek deze vorm?
+END
+
+CAT
+Bespreek de analyzers bij massaspectrometrie.
+END
+
+CAT
+Afleiding distributieconstante voor extractie van kationen via organische complexen + curve van %extractie ifv pH schetsen en uitleggen waarom het die vorm heeft + nut
+END
+
+CAT
+meerkeuze(over parameters die vorming van colloïdale suspensie bevorderen, EDTA titratiecurve, titratiecurve van zwakke base als het een lagere concentratie heeft, oplosbaarheid van Ba(IO3)2 als er ionen worden toegevoegd)
+END
+
+CAT
+Types straling in EM-spectrum (golflengtes) + welke overgangen ze veroorzaken + voor welke spectrometrische methoden ze gebruikt kunnen worden
+END
+
+CAT
+End-capping, eddy diffusion en bleeding uitleggen (voor elk woord max drie regels)
+END
+
+CAT
+Reversed-phase en normal-phase kolom vergelijken + wat is HILIC en zijn voordeel tov normal-pfase 5.Figuur van WDXRF gegeven: tekening uitleggen en componenten benoemen
+END
+
+CAT
+pH van een mengsel van zwak diprotisch zuur + sterk zuur vlak voor het equivalentiepunt van het zwak zuur
+END
+
+CAT
+Verdelingscurven a) Leid een algemene uitdrukking af voor de fractie van de éénmaal gedissocieerde vorm van oxaalzuur in een waterige oplossing in functie van de pH (t.t.z. H+)
+b) Kan deze vorm als zuiver component getitreerd worden als je weet dat pKa1=1.25 en pKa2=4.27. Illustreer dit aan hand van de verdelingscurven.
+c) Duid op de verdelingscurve het 2e equivalentiepunt aan.
+END
+
+CAT
+titraties (meerkeuzevragen)
+a) De titratie van Fe2+ met EDTA in gebufferd medium, grootste pM-sprong?
+b) Titratie eenwaardig zwak zuur met sterke base, Ka neemt af met factor 10. EP bij lagere pH? Fout of juist?
+c) redoxtitratie van Fe2+ met Cu4+, analietconcentratie neemt toe met factor 10, gevolg?
+d) Sepctrofotometrische titratiecurve, voor EP stijl stijgend lijnsegment en na EP minder stijgend lijnsegment. Molaire extinctiecoëfficiënt?
+END
+
+CAT
+Spectrochemische analysetechnieken: NMR, AAS, FTIR en XRF. Rangschikken volgens golflengte, naam van techniek?, golflengtegebied?, soort interactie met analiet?
+END
+
+CAT
+Chromatografie
+a) Bespreek het begrip partitiechromatografie en de verschillende kolommen die hiervoor gebruikt kunnen worden.
+b) Bespreek in max. 3 regels: Eddy-diffusie, gekoppelde techniek, FSOT
+END
+
+CAT
+Zowel lucht-C2H2 vlammen als Ar-plasma’s worden gebruikt om atomaire volumes aan te maken. Wat zijn de belangrijkste redenen voor het aanleggen van zo’n atomair volume met behulp van een plasma? Zijn er ook nadelen aan verbonden?
+END
+
+CAT
+Afleiding geven van de fractie van de meest gedissocieerde vorm van een 2-waardig zuur (alfa A2-) + tekening van alle alfa’s ifv pH met pKa1=3 en pKa2=8 + tekening van de titratiecurve er onder, zorg dat de EPen verticaal op de 2 tekeningen met elkaar overeen komen
+END
+
+CAT
+Meerkeuzevragen: - Mengsel van sterke base en zwakke base met Kb=10^(-12) en wordt getitreerd met een sterk zuur. Welke concentratie kan bepaald worden?( enkel SB, enkel ZB, geen van beide, som van beide) - NaCl toevoegen bij AgCl: wat gebeurt er met de oplosbaarheid? (daalt, stijgt,stijgt eerst en daalt dan, daalt eerst en stijgt dan) - Bij titratie van een zwakke base met een sterk zuur, bij verlaging van de concentratie zwakke base: wat gebeurt er met het EP? (blijft, zakt,stijgt) - Tijdens een titratie daalt de absorbantie ifv V(titrant) steil en daarna stijgt die zwak. Wat kan men zeggen over de extinctiecoefficient? (alle mogelijke combinaties--> oplossing: E(analiet)>E(titrant)>0, E(product)=0)
+END
+
+CAT
+3 componenten X,Y en Z zitten in een mengsel.
+Beschrijf hoe je de concentratie van de 3 componenten in het mengsel gaat berekenendmv absorptie. (3 stelsels met 3 onbekenden maken)
+END
+
+CAT
+Hoofdvraag: Leg split/splitless-injector uit en hoe komt de oplossing op de kolom? - 3 termen uitleggen in max 3 regels:
+Dode tijd, reversed phase en massaspectrometrische resolutie
+END
+
+CAT
+Figuur holle kathode buis gegeven: ‘Leg uit’
+END
+
+CAT
+Kalibratie via IS en zoek dan de concentratie van de onbekende
+END
+
+CAT
+Mengsel van 25mL met 0,1M malonzuur en 0,1M zoutzuur. Bereken de pH na titratie met 33,2mL van 0,15M NaOH.
+END
+
+CAT
+Een lichtzure oplossing van 10^(-7) M salpeterzuur-> toon aan dat de pH verschilt bij metingen bij verschillende temperatuur adhv de Kw’s bij 25°C en 50°C (werden gegeven)
+END
+
+CAT
+Absorptie met vereenvoudigde standaardadditie (voor extinctiecoefficient te berekenen) en blanco
+END
+
+CAT
+Retentietijd, lengte kolom en piekbreedte op halve hoogte gegeven van 2 componenten. (7 deelvragen)
+a) Gemiddelde plaatgetal
+b) Plaathoogte
+c) Resolutie
+d) k’s van beide componenten
+e) alfa
+f) Lentge voor resolutie=2
+g) tr van de 2e component hierbij
+END
+
+CAT
+pH gevoelige extractie van kationen met organische complexen. Afleiding geven en grafiek uitleggen + nut
+END
+
+CAT
+EM spectrum. FTIR, AAS, NMR en XRF rangschikken
+END
+
+CAT
+B factor van de Van Deemte curve geven + 3 begrippen in max 3 lijnen uitleggen, liner, DAD en time of flight
+END
+
+CAT
+Gasproportionaal teller uitleggen adhv een afbeelding
+END
+
+CAT
+Verdelingscurven
+a) Geeh de fractie van de volledig gedissocieerde vorm van een tweewaardig zuur H2A in functie van de pH (t.t.z [H+]); (alpha van A2-)
+b) Maak een schets van de verdelingscurve en teken ook de pH curve eronder.
+END
+
+CAT
+pH gevoelige extractie van kationen met organische complexen. Afleiding geven en grafiek uitleggen + nut
+END
+
+CAT
+3 componenten X,Y en Z zitten in een mengsel. Beschrijf hoe je de concentratie van de 3 componenten in het mengsel gaat berekenen dmv UV-VIS absorptie.
+END
+
+CAT
+10 meerkeuzevragen over chromatografie
+END
+
+
+CAT
+25 mL 0,100 M maleïnezuur wordt getitreerd met 0,150 M KOH. Bepaal de pH na
+a) 3 mL KOH
+b) 16,6 mL KOH
+END
+
+CAT
+Bepaal (er waren genoeg gegevens gegeven, en twee stoffen):
+a) Gemiddeld plaatgetal
+b) Plaathoogte
+c) Retentietijdsfactor
+d) Resolutie
+e) Welke lengte zou de kolom moeten hebben voor een resolutie van 1.5
+f) Wat zou de retentietijd zijn van stof B als de resolutie 1.5 zou zijn
+END
+
+CAT
+leidt de uitdrukking voor de fractie H2M- af voor een driewaardig zuur H3M in functie van H+ + teken de verdelingscurve van dit zuur (Ka1 = 10^-2, Ka2=10^-6 en Ka3=10^-9) + duidt op deze figuur aan welke vormen van dit zuur niet apart titreerbaar zijn
+END
+
+CAT
+4 meerkeuzevragen (over pH-, potentiometrische, complexometrische en spectrofotometrische titraties).
+END
+
+CAT
+leidt de uitdrukking van lambert beer af + leg uit met schetsen en formules waarom het belangrijk is om de het absorptiemaximum van het analier te gebruiken
+END
+
+CAT
+leg het nut van een suppressor bij ionchromatografie uit en maak hier een schema bij + leg de verschillende verdampingsinjectoren uit en hun voor- en nadelen en wanneer je welke injector zou gebruiken
+END
+
+CAT
+2 tekeningen gegeven (deuteriumlamp en zeeman-correctie) leg uit.
+END
+
+CAT
+Het gehalte aan Mg2+ bepalen via een ijklijn, zoals in de fluorproef van het practicum.
+END
+
+CAT
+Maleinezuur (zwak) wordt getitreerd met KOH (sterke base). De concentraties en volumes zijn gegeven. Bereken de pH.
+END
+
+CAT
+Het CO2 gehalte in bruiswater bepalen, doormiddel van een terugtitratie met Ba(OH)2.
+END
+
+CAT
+Het gehalte aan een onbekende component X bepalen met spectrofotometrie. Alles was gegeven om de molaire extinctiecoëfficiënt te berekenen, en daarna te gebruiken op de meting van het staal.
+END
+
+CAT
+Bereken hoeveel keer er een extractie moet uitgevoerd worden met hexaan, om de concentratie van een bepaalde stof tot 1% van de oorspronkelijke concentratie te doen afnemen. Let op: de log K was gegeven, en niet de K, zoals verwacht.
+END
+
+CAT
+Je wil een staal bier analyseren op de concentratie van een component die de typische kattenpisgeur veroorzaakt met een gaschromatograaf.
+Je bereidt een reeks oplossingen voor met 1, 5, 10, 50 en 100 mL van de analiet (concentratie in µg/mL is gegeven).
+Aan elke oplossing voeg je 5 mL IS toe (concentratie in µg/mL is gegeven).
+De chromatograaf geeft de piekoppervlakten (een tabel met de piekoppervlakten van A en IS is gegeven).
+Je meet ook een onbekende staal bier van 25 cL. Hiervoor meet de chromatograaf ook piekoppervlaktes (piekoppervlaktes van A en IS zijn gegeven).
+END
+
+CAT
+Maak een schets van de methode. Waarom gebruik je interne standaard?
+END
+
+CAT
+De max concentratie dat aanwezig mag zijn van die component is 30 nm/mL. Wordt dit overschreden en moet je de pint weggooien?
+END
+
+CAT
+Titratie van een 25 mL mengsel van zoutzuur (0.1 M) en malonzuur (0.1 M) met NaOH (0.2 M). pKa1 en pKa2 van malonzuur zijn ook gegeven.
+a) Bereken de pH wanneer 24,9 mL NaOH is toegevoegd.
+b) Teken de verdelingscurve van malonzuur.
+3) Bij de fermentatie van salami kan een ongewenst product X worden gecreëerd. Je maakt van 3.14 g salami een extract van 100 mL. Je voegt 5 mL van iets en 10 mL van nog iets toe om het te laten reageren. Daarna meet je de absorbantie (A=0.431, lengte cuvet is 5 cm). Dan maak je nog een oplossing met dezelfde methode als hiervoor, maar bij deze staal zit er zeker geen X in. Ook hier meet je de absorbantie (A=0.034). Je maakt ook een derde oplossing op dezelfde methode als de originele oplossing, maar met 1 extra mL van een oplossing met gekende concentratie X (c en A gegeven).
+a) Leg uit waarom je de laatste 2 oplossingen maakt. Gebruik de juiste terminologie.
+END
+
+
+CAT
+Bereken het aantal ppm X in de salami. (ik denk dat het antwoord 68 ppm is)
+END
+
+CAT
+a) Wat is het verschil tussen een massagevoelige en een concentratiegevoelige detector?
+b) Bespreek de verschillende injectiemethoden bij gaschromatografie.
+5) vraag van Koen Janssens: Leg uit waarom de precisie bij oven-AAS veel beter is dan die van vlam-AAS.
+END
+
+CAT
+afleiding formule fractie volledig gedissocieerde vorm van H2A (dus alpha A2-) En ook verdelingscurve en titratiecurve tekenen
+END
+
+CAT
+Hoe ga je te werk om de concentratie van 3 componenten (X,Y,Z) uit een mengsel te bepalen met UV-Vis? Welke golflengte is UV-Vis en kunnen alle stoffen bepaald worden met deze techniek?
+END
+
+CAT
+verklaar volgende begrippen/ principes in max. 10 regels (in totaal waren er 5):
+werking 6-wegkraan bij LC, gelchromatografie, SPE,cold trapping, massaresolutie vs chromatogram resolutie
+END
+
+FTT
+Bespreek het Reynolds transport theorema.
+END
+
+FTT
+Bespreek de algemene vinvergelijking. Wat wordt dit bij een geïsoleerde vintip?
+END
+
+FTT
+Effectiveness NTU methode
+END
+
+FTT
+Bespreek RTT. Wat wordt dit bij uniforme in- en uitlaat en stationair?
+END
+
+FTT
+Bespreek de algemene vinvergelijking. Wat wordt dit bij een adiabatische tip en voor warmtedebiet in het algemeen?
+END
+
+FTT
+Bespreek de ontwikkeling van een temperatuursprofiel en vergelijk met warmtedebiet.
+END
+
+FTT
+Bespreek de vergelijking van Bernouilli
+END
+
+FTT
+Bespreek de algemene vinvergelijking
+END
+
+FTT
+Bespreek de effectiveness NTU method
+END
+
+FTT
+Geef de mechanische energie, mechanische efficiëntie en gecombineerde turbine-generator efficiëntie.
+END
+
+FTT
+Geef de algemene energievgl voor stationaire, onsamendrukbare stroming van een CV, verklaar alle termen. Schrijf deze vgl van een systeem met 1 inlaat en 1 uitlaat.
+END
+
+FTT
+Schrijf deze vgl. in termen van hoogten(heads) nl. de bruikbare pomphoogte hpomp,u , geëxtraheerde turbine hoogte en onomkeerbare hoogteverlies wegens de buizen hL.
+Geef duidelijk aan hoe je de vgl. omvormt.
+Vereenvoudig deze vgl. voor het geval; onsamendrukbare stroming, geen mechanische arbeidstoestellen aanwezig en verwaarloosbare wrijving.
+END
+
+FTT
+Geef de afleiding van de algemene vinvergelijking (stationair condities) voor een vin met constante dwarsdoorsnede en constante warmtegeleidingscoëfficiënt.
+Maak ook een tekening van de vin en duid de gebruikte parameters aan op de tekening.
+Geef de uitdrukking voor het warmteprofiel voor een vin die oneindig lang is, en voor dit geval ook de uitdrukking van het warmtedebiet voor de ganse vin.
+Geef de definitie van de vinefficiëntie en pas deze toen voor een oneindige lange vin.
+END
+
+FTT
+Bespreek de ε-NTU-methode. Maak de afleiding voor het warmtedebiet voor een dubbele pijp-gelijkstroomwisselaar.
+Geef ook schematische tekening en duid de gebruikte parameters aan op de tekening. Geef de effectiviteitsrelatie voor een boiler en de condensor en leg uit hoe je aan deze relatie komt.
+END
+
+FTT
+Beschouw volledig ontwikkelde laminaire stroming in een ronde buis
+a) leidt de uitdrukking af voor het verloop van de vloeistofsnelheid in de radiale richting
+b) toon aan dat de verandering van de druk volgens axiale afstand constant is
+c) leidt de uitdrukking af voor de druk verlaging bij stroming in een buis
+d) leidt de wet van poiseuille af (verband tussen het volumetrisch debiet en de druk verhoging af)
+END
+
+FTT
+Veronderstel dat een cilindervormige wand is opgebouwd uit 3 lagen en elke laag gekarakteriseerd is door een verschillende warmtegeleidingscoefficient.
+Langs beide kanten wordt warmte overgedragen via convectie. Teken hiervoor het thermische weerstandsnetwerk en geef de uitdrukking voor de volledige weerstand, hitte stroom, enz... Leid ook de T-verdeling van een volle bol af.
+END
+
+FTT
+Leid de conductie vergelijking af van een parrallelstroom met twee buizen, geef een tekening, bepaal alle krachten die hier op in werken en duid die aan.
+END
+
+FTT
+Geef de mechanische energie, mechanische efficiëntie en gecombineerde turbine-generator efficiëntie.
+Geef de algemene energievgl voor stationaire, onsamendrukbare stroming van een CV, verklaar alle termen.
+Schrijf deze vgl van een systeem met 1 inlaat en 1 uitlaat.
+Schrijf deze vgl. in termen van hoogten(heads) nl. de bruikbare pomphoogte hpomp,u , geëxtraheerde turbine hoogte en onomkeerbare hoogteverlies wegens de buizen hL. Geef duidelijk aan hoe je de vgl. omvormt.
+Vereenvoudig deze vgl. voor het geval; onsamendrukbare stroming, geen mechanische arbeidstoestellen aanwezig en verwaarloosbare wrijving.
+END
+
+FTT
+Geef de afleiding van de algemene vinvergelijking (stationair condities) voor een vin met constante dwarsdoorsnede en constante warmtegeleidingscoëfficiënt. Maak ook een tekening van de vin en duid de gebruikte parameters aan op de tekening.
+Geef de uitdrukking voor het warmteprofiel voor een vin die oneindig lang is, en voor dit geval ook de uitdrukking van het warmtedebiet voor de ganse vin.
+Geef de definitie van de vinefficiëntie en pas deze toen voor een oneindige lange vin.
+END
+
+FTT
+Bespreek de ε-NTU-methode. Maak de afleiding voor het warmtedebiet voor een dubbele pijp-gelijkstroomwisselaar. Geef ook schematische tekening en duid de gebruikte parameters aan op de tekening. Geef de effectiviteitsrelatie voor een boiler en de condensor en leg uit hoe je aan deze relatie komt.
+END
+
+FTT
+Bespreek het Reynoldstransporttheorema.
+Volledig afleiden en veralgemenen voor specifieke gevallen (stationaire condities, eindig aantal in/uitgangen).
+Gebruik het RTT ook om de impulsmomentvergelijking af te leiden.
+END
+
+FTT
+Lumpinganalyse uitleggen. Geef ook de afleiding van transiënte warmtegeleiding doorheen een vlakke plaat (inclusief het dimensieloos maken van de onbekenden)
+END
+
+FTT
+Bespreek de LMTD-methode bij warmtewisselaars.
+Wanneer wordt deze gebruikt en welke procedure moet er gevolgd worden? Maak ook de afleiding met tekening, en duidt hierop alle gebruikte parameters aan.
+END
+
+FTT
+Water stroomt uit een tank, die onder druk staat (P=50 kPa), door een 200 m lange buis met diameter 0.1 m. De buis maakt twee bochten van 90° (KL is telkens 1) en er zit een kraan tussen (KL is 5).
+Bovendien heeft de buis een ruwheid ε van 0.0008. De turbinehoogte bedraagt 115 m.
+Als de ingangsverliezen te verwaarlozen zijn, wat is dan het volumetrisch debiet?
+END
+
+FTT
+Er loopt een horizontale hoge druk stoompijp doorheen een kamer.
+De stoompijp heeft een buitendiameter van 0.1 m, een emissiviteit van 0.85 en een oppervlaktetemperatuur van 165 °C.
+De kamer en zijn wanden hebben een temperatuur van 23 °C. Bepaal het warmteverlies per eenheidslengte.
+END
+
+FTT
+Beschouw een ‘cross-flow’ warmtewisselaar met vinnen.
+Warme uitlaatgassen hebben een in- en uitlaattemperatuur van respectievelijk 300 °C en 100°C.
+Deze worden gekoeld met water dat met een debiet van 1kg/s stroomt, een ingangstemperatuur van 35°C en een uitgangstemperatuur van 125 °C heeft.
+De totale warmteoverdrachtscoëfficiënt bedraagt 100 W/m² . K.
+Bepaal de benodigde oppervlakte met de ε-NTU-methode.
+END
+
+FTT
+Geef de afleiding voor de hydrostatische kracht die inwerkt op een ondergedompelde vlakke plaat.
+Maak een tekening en leidt ook de plaats van het drukpunt af.
+END
+
+FTT
+Beschouw een cilinder met 3 lagen en telkens een verschillende k:
+a) Geef het weerstandsnetwerk, het resulterende warmtedebiet en leidt de individuele weerstanden af.
+b) Leg uit wat de kritische straal voor isolatie is en leidt deze af voor een cilinder.
+c) Geef de thermische diffusiviteit (α) en leidt deze af.
+END
+
+FTT
+Beschouw laminaire stroming in een cilindrische pijp:
+a) Toon aan dat de temperatuur niet varieert in de axiale richting.
+b) Geef de relatie van die temperatuur met de radiale richting voor een gegeven snelheidsverdeling.
+END
+
+FTT
+Afleiden van het snelheidsprofiel van laminaire stroming in een hellende buis.
+END
+
+FTT
+Hoe kan je de nodige grootte van een warmtewisselaar bepalen als de begin en eindtemperatuur gegeven is? (geef de verschillende stappen)
+END
+
+FTT
+Stel de bewegingsvergelijking op en haal hieruit het getal van Grashof.
+END
+
+FTT
+Vinvergelijking (+ voor oneindig lange vin)
+END
+
+FTT
+3 manieren van warmteoverdracht + wetten + fysisch uitleggen
+END
+
+FTT
+logaritmisch gemiddelde temperatuur, de afleiding
+END
+
+FTT
+Biot - Reynolds – Nusselt
+END
+
+FTT
+Bernouilli
+END
+
+FTT
+Reynolds Transport Theorema: uitleg + afleiding, wat geeft dit voor stationaire systemen, wat geeft dit bij welgekende in-en uitlaten
+END
+
+FTT
+Leidt conductie doorheen bolschil af en geef weerstandsnetwerk
+END
+
+FTT
+Hoe kan je de grootte van warmtewisselaarbepalen wanneer de in- en uitlaattemperaturen gekend zijn (LMTD-methode -> bepalen van As of lengte
+END
+
+FTT
+Afleiden van het snelheidsprofiel van laminaire stroming in een hellende buis.
+END
+
+FTT
+Geef de verschillende stappen wanneer je de uitlaatT moet berekenen van een warmtewisselaar wanneer de rest bekend is(NTU methode).
+END
+
+FTT
+Geef de 3 manieren van warmteoverdracht(wetten+fysisch uitleggen
+END
+
+FTT
+Snelheidsprofiel van laminaire stroming in een gehelde buis
+END
+
+FTT
+Verschillende stappen die je moet doorlopen om de eindtemperaturen te bepalen via epsilon-NTU methode indien je de massadebieten en inlaattemperaturen kent.
+END
+
+FTT
+Verschillende vormen van warmtetransfer+ de wetten + de naam van de wetten + wat betekenen ze fysisch?
+END
+
+FTT
+Geef het temperatuursverloop voor een muur die van binnen naar buiten bestaat uit baksteen, isolatiemateriaal en terug baksteen.
+Buiten is er een harde wind en is het koud. Geef duidelijk aan wat het verschil is tussen de verschillende materialen met een formule.
+Waar zal het verschil tussen wandtemperatuur en binnen- of buitentemperatuur het grootste zijn?
+Toon aan met een formule. 2.Geef een voorstelling van het intredegebied in een buis. Is de snelheid overal even groot?
+Welk fenomeen is hiervan de oorzaak? Wat is de gemiddelde snelheid? Nog een aantal kleine deelvraagjes.
+END
+
+FTT
+Wat stelt het Nusseltgetal voor? Waarvoor kan het Nusseltgetal nog gebruikt worden?
+END
+
+FTT
+Stroming van lucht over een vlakke plaat.
+END
+
+FTT
+Een cilindrisch blok ijs van 2 cm hoogte en 2 cm diameter wordt in een kamer van 24 °C gezet.
+De onderkant van de cilinder staat op een isolerend materiaal.
+Bereken de initiële temperatuur zodat het ijsblok na drie uur nog niet gesmolten is.
+END
+
+FTT
+Twee horizontale platen die parallel ten opzichte van elkaar bewegen kunnen gebruikt worden als meetinstrument voor de viscositeit van een fluïdum.
+a) Leg uit (leid af) hoe je de viscositeit van het fluïdum kan meten met dergelijk apparaat.
+b) Welke types fluïda kan je onderscheiden op basis van hun viscositeit?
+c) Stel dat fluïdum A een grotere viscositeit heeft dan fluïdum B. Wanneer beide fluïda doorheen een buis stromen bij gelijk debiet en in laminair regime, welk fluïdum vertoont dan de kortste hydrodynamische ingangs- of intredelengte? Leg kort uit.
+END
+
+FTT
+Wanneer een warme ronde buis geïsoleerd wordt, merken we dat bij onvoldoende dikte van het isolatiemateriaal de warmteverliezen naar de omgeving juist vergroten.
+Leg aan de hand van een formule uit hoe dit komt en bereken de minimale dikte van het isolatiemateriaal die nodig is om een isolerend effect te krijgen.
+END
+
+
+FTT
+In een aantal situaties mag je bij niet stationaire warmtegeleiding in een object veronderstellen dat de temperatuur van het object uniform is tijdens het volledige proces van opwarmen en afkoelen.
+Dit vergemakkelijkt aanzienlijk de analyse van niet stationaire warmtegeleidingsproblemen.
+a) Hoe heet deze methode?
+b) Leid de eenvoudige vergelijking af voor het temperatuursverloop als functie van de tijd in een willekeurig voorwerp, gebaseerd op deze benadering.
+c) Wanneer mag je deze methode toepassen? Leg kort uit.
+END
+
+FTT
+a) Geef de uitdrukking voor het Nusseltgetal en leg kort uit wat dit getal fysisch betekent of hoe het geïnterpreteerd kan worden.
+b) Hoe groot is (in principe) de kleinst en grootst mogelijke waarde van het Nusseltgetal?
+c) Wanneer een vlakke plaat parallel wordt aangestroomd door een fluïdum, varieert het Nusseltgetal over de lengte van de plaat.
+Hoe komt dit? d) Ook voor de beschrijving van natuurlijke convectie in een ingesloten verticale ruimte kan het Nusseltgetal gebruikt worden. Leg uit.
+END
+
+FTT
+Veronderstel dat een bakstenen muur in de winter zich bevindt onder stationaire omstandigheden.
+De omgevingstemperatuur buiten is -10°C en binnen 20°C.
+De warmteoverdrachtscoëfficiënt buiten is groter dan binnen, omdat er buiten meestal wind is.
+a) Aan welk oppervlak zal de oppervlaktetemperatuur de omgevingstemperatuur het meest benaderen? Verklaar (liefst met een formule) en schets het temperatuurprofiel.
+b) Leid de zeer eenvoudige wet af voor stationaire geleiding door een muur. Zeg ook welke twee wetten je daarvoor gebruikt hebt.
+c) Stel dat de muur niet uit baksteen is gemaakt, maar een isolerend materiaal. Hoe zal het temperatuurprofiel in de muur beïnvloed worden? Schets en verklaar.
+END
+
+FTT
+a. Wat is het verschil tussen vinefficiëntie en -effectiviteit?
+b. Leid een eenvoudig verband af tussen beide.
+c. Wat is effect op beide van het verlengen van de vinlengted? Stel dat je warme lucht wil koelen door die door een buis te sturen omgeven door koude lucht. Waar plaats je in dit geval de koelvinnen? En verklaar? En zou je aan beide zijden koelvinnen plaatsen?
+END
+
+FTT
+Natuurlijke convectie en gedwongen convectie de criteria uitleggen. En hij wou ook graag getallen
+END
+
+FTT
+a. Wat is een zwart lichaam, leg uit en de belangrijkste karakteristieken.
+b. Wat is het verschil tussen zwart en grijs lichaam?
+c. Waarom is een witte gloeiende voorwerp warmer dan rode? Geef de wet die daar te maken mee heeft.
+END
+
+FTT
+Geef een voorstelling van het intredegebied bij laminaire stroming in een buis en leg uit, beantwoord hierbij volgende deelvragen:
+a) Leg uit welke eigenschap van het fluïdum en het fenomeen dat hiervan de oorzaak is.
+b) Geef de uitdrukking van de gemiddelde snelheid.
+c) Geef ook een voorstelling van de schuifspanning bij stroming door de buis.
+d) Waar is de schuifspanning minimaal? Verklaar en bereken.
+END
+
+FTT
+2. Twee figuren:
+a) apollo 11 capsule
+b) vliegtuig op een gegeven kruissnelheid Leg de weerstandskrachten in beide gevallen uit.
+END
+
+FTT
+Stationaire warmtegeleding. Figuur van muur met temperatuursprofiel (convectie, conductie in wand, convectie) is gegeven.
+a) Uit figuur valt af te leiden wat de binnen en buitenkant is, bepaal en verklaar.
+b) Leid de wet af voor stationaire geleiding in een muur, welke wet gebruik je hiervoor?
+c) Stel dat muur niet uit baksteen is gemaakt maar uit isoleren materiaal, hoe wordt het temperatuursprofiel hierdoor beïnvloed? Schets op de tekening.
+d) Bij vraag c) veranderen de temperaturen aan buiten en binnenoppervlak van de muur, veranderen de warmteoverdrachtscoëfficiënten? Verklaar.
+e) Stel dat temperatuur buiten/ binnen plots ineens daalt en er geen stationaire warmtegeleiding meer is. Bij welk materiaal (isolatie of baksteen) gaat de muur de meest uniforme temperatuur in de wand hebben? Leg uit adhv 1 getal.
+END
+
+FTT
+Leg emissiefactor uit, gebruik hiervoor ook figuur ( of figuren) met daarin een reëel en grijs oppervlak en een zwart lichaam.
+END
+
+FTT
+Stuwdam in de vorm van een kwart cilinder onder water met diepte 10m (is dus de straal) en lengte van de stuwdam 1000m (figuur ook gegeven).
+Bereken de hydrostatische kracht op de stuwdam en de richting.
+END
+
+FTT
+Cilinder (hoogte 4cm en straal 2cm) en balk (6cmx6cmx8cm) uit grafiet met initiële temperatuur resp. 100°C en 150°C.
+Welk van de 2 objecten gaat in centrum de hoogste temperatuur hebben na 10min opwarming in omgeving van 500°C?
+Bepaal in beide lichamen de temperatuur in het centrum na deze 10min.
+END
+
+FTT
+Figuur gegeven met alle afmeting van plaat met cilindrische koelvinnen (ook alle eigenschappen waren gegeven).
+Bepaal de warmteoverdracht van een 1mx1m plaat met en zonder vinnen.
+END
+
+FTT
+capaciteitsmethode: wat is de capaciteitsmethode?
+Wanneer kan deze toegepast worden? Leid een eenvoudige formule af voor het temperatuursverloop in functie van de tijd.
+END
+
+FTT
+Koelvinnen: vinefficiëntie en -effectiviteit. Wat is het verschil?
+Leid een eenvoudig verband af tussen beiden. Wat is het effect van het verlengen van de vinlengte op beiden?
+Als je warmte lucht wilt koelen door een buis, plaats je de vinnen aan de binnen- of buitenkant van de buis? Wanneer plaats je de vinnen aan binnen- en buitenkant?
+END
+
+FTT
+Welke krachten werken er op een lichaam in een stromend medium?
+Hoe worden deze krachten veroorzaakt en welke fysische fenomenen veroorzaken ze?
+Maak eventueel een tekening.
+END
+
+FTT
+Reynolds transporttheorema
+END
+
+FTT
+Student plaatst een hotdog (initiële temperatuur gegeven) in kokend water en kookt deze voor 5 min.
+De temperatuur van de hele hotdog moet minstens 80°C zijn na het koken. Hotdog kan je beschouwen als een perfecte cilinder en alle eigenschappen zijn gegeven.
+END
+
+FTT
+Raam met dubbel glas en daartussen lucht. Binnen- en buitentemperatuur zijn gegeven, bereken de snelheid van warmteoverdracht.
+END
+
+FTT
+Een muur moet een modderpoel tegehouden. De dichtheden van de muur en het modder waren gegeven, de afmetingen van de muur en de wrijvingsfactor µ ook.
+a) Bij welke hoogte van het moddel zal de muur beginnen schuiven?
+b) Bij welke hoogte de modderpoel zal de muur omvallen?
+END
+
+FTT
+2 figuren gegeven (een schijf die aan 1 kant bol is een een raket), leg uit hoe de weerstand verschilt door de vorm en geef aan welke vorm van weerstand overheerst.
+END
+
+FTT
+Teken de temperatuursprofiel door een muur met 3 lagen (van elke laag is k en de dikte gegeven, ook de binnen- en buitentemperatuur zijn gegeven).
+Is er binnen of buiten een hoger temperatuursverschil tussen omgeving en wand?
+Welke van de 3 lagen heeft de hoogste weerstand?
+END
+
+FTT
+a) Is de capaciteitsmethode geschikter voor een warm ei in koud water of in koude lucht?
+b) Hetzelfde voor koud water en glycerine.
+c) Hetzelfde voor op aarde en op het ISS.
+END
+
+FTT
+Een bovengrondse buis met warm water is gedeeltelijk buiten en gedeeltelijk door een gebouw.
+Buiten is de warmteoverdracht lager.
+Is dit ook het geval binnen?
+END
+
+FTT
+Water stroomt over een buis (die dwars op het blad ligt).
+Duid aan op de gegeven tekening waar de warmteoverdracht het hoogst is bij laminaire en turbulente stroming.
+Op welke figuur in het boek heb je je gebaseerd
+END
+
+FTT
+de weerstand op een cilinder op een mobilhome berekenen wanneer de boven- en ondervlak gericht zijn in de richting van beweging van de mobilhome, of wanneer het de boven- en ondervlak gericht is naar de zijkant van de mobilhome.
+Bij welke van de 2 gevallen is de weerstand het hoogst? Verwaarloos de wrijving.
+END
+
+
+FTT
+een steen houdt een verticale plaat (hangt langs boven vast aan een scharnier) tegen die water tegenhoudt.
+Wat is de massa van de steen? De wrijvingsfactor van de steen is ook gegeven.
+END
+
+FTT
+Warmtegeleiding door een appel (moest worden opgelost met lumpingsanalyse).
+END
+
+FTT
+Convectie bij een gloeilamp: wat is de temperatuur aan het buitenoppervlak van de gloeilamp?
+Verwaarloos straling en conductie. De temperatuur van de omgevingslucht is 25°C.
+END
+
+FTT
+Krachtmoment van olie, water en lucht vergelijken voor eenzelfde systeem
+END
+
+FTT
+gelijkaardig aan een voorbeeld examenvraag van de theorie die we tijdens de les besproken hebben, maar dan met een verandering van k (baksteen en isolator)
+END
+
+MICROBIO
+Artikel over Salmonella:
+1. 3 methoden om Salmonella aan te tonen (minstens 1 voor- en 1 nadeel per methode).
+2. Kan je de graad van besmetting aantonen met 1 van deze methoden? Leg uit.
+3. Welk virus (geef taxonomie) heeft gelijkaardige symptomen? Zijn de 3 methoden uit punt 1 nog van toepassing? Geef een alternatief indien niet.
+4. Geef 2 manieren om Salmonella te bestrijden (minstens 1 voor- en 1 nadeel per methode).
+5. Geef 2 structuren typisch voor de celwand van Salmonella en schets
+END
+
+MICROBIO
+1. Een wit poeder wordt aangetroffen op een brief. Welk bioterrorisme wapen is dit waarschijnlijk? Maak ook een tekening.
+2. Hoe zou je dit pathogeen identificeren? Geef 3 methoden met telkens 2 voor- en nadelen.
+3. Is het maken van een telling van de pathogenen mogelijk met de methoden uit vraag 2?
+4. Hoe zou je het pathogeen verwijderen/sterilizeren uit:
+a) de brief
+b) het huis van de ontvanger van de brief
+c) een geïnfecteerd persoon
+5. Welk virus is geschikt als bioterrorisme wapen + schets het virus
+END
+
+MICROBIO
+1. Listeria: taxonomie? Waarom zo gevaarlijk? Schets de bacterie.
+2. Geef 3 manieren om Listeria te identificiëren + telkens 2 voor- en 2 nadelen. Hoe zou je Salmonella van Listeria onderscheiden?
+3. Zou je aan de hand van de manieren van vraag 3 ook de graad van besmetting kunnen bepalen (maw het aantal bacteriën kunnen tellen)? Hoe dan?
+4. Geef 3 methoden om besmetting tegen te gaan:
+a) Tijdens de productie
+b) Behandelen van het vlees
+c) Na besmetting bij een persoon
+d) waarom bestaat er (nog) geen vaccin tegen Listeria? Geef 1 reden.
+5. Welk virus heeft een gelijkaardig potentieel gevaar? Zouden de methoden van de vorige vraag nu ook toepasbaar zijn?
+END
+
+MICROBIO
+Een kindje komt met hevige diarree naar het ziekenhuis.
+Geef 4 mogelijke parasieten die hier de oorzaak van kunnen zijn (2 prokaryoten en 2 virussen).
+Geef de metabole eigenschappen en waar ze normaal voorkomen.
+Hoe zou je deze parasieten opkweken? Hoe zou je ze identificeren en geef de voor- en nadelen tov. het opkweken.
+Wat zou je als voorzorgsmaatregel aanraden om zo weinig mogelijk andere mensen te besmetten?
+END
+
+MICROBIO
+Een papier en karton recyclagebedrijf heeft een probleem … Er zijn een aantal mensen die klachten hebben van hoest en koorts
+a) Om welke 2 pathogenen zou het kunnen gaan? Geef juiste taxonomie, morfologie, kenmerken. Waarom kies je deze 2 pathogenen
+b) Hoe zou je deze gaan identificeren met een kweek gebaseerde methode?
+c) Geef 2 alternatieve methode die je kan gebruiken. Geef voor elk voor en nadelen
+d) Hoe zou je ervoor zorgen dat de verspreiding van de pathogeen vermeden wordt? Geef voor en nadelen
+e) Hoe zou je kunnen nagaan of het gaat om een nieuw pathogeen of een pathogeen dat reeds ontdekt is?
+END
+
+TGSD
+Verklaar de volgende termen
+a) Pseudoreplicatie
+b) Type II-fout (+ factoren die deze beïnvloeden)
+c) Splitplotdesign
+d) Causaal verband
+e) Bias
+END
+
+TGSD
+Een marketingbedrijf wil nagaan wat het effect is van plaats in de winkel en merknaam op de verkoop van chips.
+Er wordt op verschillende dagen geteld hoeveel pakken zoute chips er verkocht worden, en daarbij wordt de plaats van de chips met merknaam (Lays) en huisproduct (Spar) steeds afgewisseld (op ooghoogte of op het laagste rek). Wat zijn de effecten van merknaam en plaats?
+Zijn deze effecten additief?
+END
+
+TGSD
+Temperatuur en stroomsnelheid zijn belangrijke factoren die het zuurstofgehalte van een rivier beïnvloeden.
+In de Kleine Nete worden op zes verschillende dagen tijdens 2009 deze metingen uitgevoerd.
+Kan je op basis van temperatuur en stroomsnelheid het zuurstofgehalte bepalen, en zo ja hoe? Als je weet dat op 5 april 2009 de temperatuur van het water 11,4 graden was, en de stroomsnelheid 3 m/s, wat is dan het voorspelde zuurstofgehalte?
+END
+
+TGSD
+Een farmaceutisch bedrijf wil het pijnstillend effect van twee nieuw geneesmiddelen testen.
+Er worden 30 patiënten random toegewezen tot één van de drie mogelijke behandelingen (placebo, middel1 of middel2).
+Gedurende zeven dagen geeft elke patiënt een score die weergeeft hoeveel pijn zij/hij ervaart.
+Welke behandeling heeft het beste pijnverlagende effect in de tijd?
+Hoe groot is de variatie in het pijnverlagende effect tussen patiënten?
+END
+
+TGSD
+Verklaar volgende termen:
+a. Pseudoreplicatie
+b. Bias
+c. Split-plot
+d. Power (+ factoren die deze beïnvloeden)
+e. Type I fout
+END
+
+TGSD
+De overheid wil nagaan hoe veilig rookmelders zijn.
+Ze testen de betrouwbaarheid van in totaal telkens 100 rookmelders uit 6 bedrijven (dus in totaal zijn er 600 rookmelders).
+De 100 rookmelders van elk bedrijf worden in reeksen van 25 besteld over een periode van 1 jaar.
+De eerste 3 bedrijven zijn Europees, de volgende 3 Aziatisch.
+Hieronder staat het aantal defecte rookmelders (per 25 geteste) per bedrijf en reeks.
+Is er een verschil in kans op defect toestel tussen Europese en Aziatisch bedrijven?
+Hoe groot is de variatie in deze kans tussen bedrijven?
+END
+
+TGSD
+Bij een onderzoek naar het voorkomen van infecties met de befaamde ziekenhuisbacterie wordt een enquête naar 25 ziekenhuizen gestuurd.
+Slechts 10 stuurden een ingevuld formulier terug.
+Op basis van die formulier worden de volgende waardes genoteerd:
+het aantal infecties (aant), het aantal artsen per 100 patiënten (doc), het aantal verpleegsters per 100 patiënten (nurse) en of er een actieve werking aanwezig is in het ziekenhuis om de infecties in te dijken (facil: 1 = neen ; 2 = ja).
+Welke variabelen laten toe om variatie in het aantal infecties te voorspellen?
+Stel een vergelijking op om een voorspelling te kunnen maken. De data staan in het bestand ziekenh.txt.
+END
+
+TGSD
+Manisch depressiviteit is een psychologische aandoening die zich ook bij jongeren manifesteert.
+De ernst van de aandoening kan gemeten worden op basis van de zgn.
+Young Mania Rating Scale (YMRS).
+Een pharmaceutisch bedrijf voert een studie uit waarbij het effect van een antipsychoticum (Risperidone) getest wordt.
+Van 20 jongeren die lijden aan deze aandoening worden er 10 random toegewezen aan een placebo behandeling (group = 0) en 10 krijgen de actieve component (group = 1).
+Bij de start van het experiment (time = 1) wordt van iedereen een score van de YMRS afgenomen. Daarna wordt de behandeling gestart en wordt na 1, 2 en 3 maanden opnieuw een score van de YMRS afgenomen (time = 2, 3 en 4).
+De data staan in het bestand ymrs.txt. Is er een effect van de behandeling op de afname in de YMRS over de looptijd van het experiment?
+END
+
+TGSD
+Los volgende vragen op in R. Formuleer kort de hypotheses, beschrijf de methode die je gebruikt en motiveer kort waarom.
+Programmeer de oplossing in R en haal uit de output de relevante informatie om de hypotheses te toetsen en je besluiten te formuleren.
+Je hoeft de R-code niet op te schrijven, maar de code van het volledige model is soms handig bij het verbeteren.
+1. De dataset esoph.txt bevat gegevens over het voorkomen van slokdarmkanker bij mensen uit verschillende leeftijdsgroepen, verschillende groepen qua alcoholgebruik en qua tabaksgebruik. Voor elke combinatie van groepen is het aantal mensen met (ncases) en het aantal mensen zonder (ncontrols) slokdarmkanker geteld. Ga na hoe de 3 indelingen (leeftijd, alcohol en tabak) den kans op slokdarmkanker beïnvloeden.
+2. In de dataset pine.txt vind je de hoogtes van dennenbomen over een periode van 25 jaar. Ga na hoeveel deze bomen gemiddeld jaarlijks groeien en hoe groot de tussen-individu variatie is in die groei.
+3. De dataset swiss.txt bevat fertiliteitsgegevens in 47 provincies in Zwitserland. Daarnaast bevat de dataset ook gegevens over de proportie inwoners die werkzaam zijn in de landbouw, de proportie mannen die in het leger de beste resultaten behalen, het gemiddelde opleidingsniveau, de proportie katholieke inwoners en een maat voor kindersterfte. Ga na hoe deze kenmerken verband houden met de fertiliteit
+END
+
+TGSD
+Verklaar volgende termen
+1. Bias
+2. Pseudoreplicatie
+3. Blocking
+4. Type 1 fout (+ factoren)
+5. Temporele autocorrelatie
+END
+
+TGSD
+1. Guppies: 3 niveaus van inteelt (inteelt0 = random koppel, inteelt1 = verre familie, neef/nicht ofzo,inteelt2 = broer/zus) met 3 koppels die bestudeerd werden per soort inteelt.
+Gewicht van de nakomelingen werd gemeten en ook het geslacht. Is er een verband tussen het niveau van inteelt en het gewicht.
+Zijn de effecten voor beide geslachten hetzelfde?
+END
+
+TGSD
+In een onderzoek naar het effect van de waterkwaliteit in 2 rivieren op de ontwikkeling van de zwemblaas van zebravissen worden telkens 100 vissen in 3 verschillende soorten water opgekweekt.
+De eerste is een controle met zuiver water, tweede is water uit rivier 1 en derde water uit rivier 2. Na een periode van 7 dagen wordt er geteld hoeveel vissen een normale zwemblaas hebben en hoeveel een afwijkende ontwikkeling vertonen (niet alle vissen overleven na die 7 dagen).
+Is er een effect van de waterkwaliteit op de ontwikkeling van de zebravisjes? Is er een verschil in overleving tussen de 3 behandelingen?
+END
+
+TGSD
+In dataset crime.txt werd het aantal misdaden geteld samen met de variabelen….. en het budget van de politie (police)
+END
+
+TGSD
+De R code en de output van een generalised lineair model zijn gegeven met model: glm(Aanwezigheid vogelsoort~Aanwezigheid roofvogel+ Aanwezigheid slang+Aanwezigheid roofvogel:Aanwezigheid slang, binominaal).
+Vraag 1) Leg het model uit: Waarom een glm en waarom binominaal? Leg alle termen in model uit.
+Vraag 2) 5 meerkeuzevragen met 3 juiste. Er is giscorrectie! De vragen gaan over de interpretatie van de output.
+END
+
+TGSD
+De R code en de output van een generalised lineair mixed model zijn gegeven met model: glmer(proportie~Age categorie+Tankinhoud categorie+Tankinhoud categorie:Agecategorie+(1+Age categorie+ Tankinhoud categorie+Tankinhoud categorie:Agecategorie|disctrict)).
+Vraag 1) Leg het model terug uit. Leg alle termen uit + waarom termen in fixed effect en waarom termen in random effect.
+Vraag 2) Welke betekenis heeft de intercept en wat betekent het als deze statitisch significant is.
+Vraag 3) Interpreteer nu de output. Geef de relevante statistische toetsingsgrootheden (p-waarden).
+END
+
+TGSD
+De dataset voor een experiment, waarbij kippen een verschillen dieet krijgen wekelijks worden opgevolgd, is gegeven.
+Vraag 1) Stel het model op en geef de R code. Leg dit model ook uit en leg de termen bij het random en het fixed effect uit. Het model: lmer(Weight~Week+Diet+Week:Diet+(1+Week|Chick:Diet))
+Vraag 2: Geef nu de R code van het finaalmodel. Geef ook alle relevante punten van de output en interpreteer (Vermeld alles dat statistisch significant is en ook de p-waarden).
+END
+
+PROCES_TECH
+1) Foto van een uitwendige radiale zuigerpomp, principe uitleggen, meest gebruikte toepassing en waarom
+END
+
+PROCES_TECH
+verschil tussen natte bol en droge bol temperatuur, afleiding geven (gegeven: tekening uit de cursus
+END
+
+PROCES_TECH
+verschil driehoekschakeling en sterschakeling
+END
+
+PROCES_TECH
+begrippen: saltatiesnelheid, drukhoek, evolvente vertanding, ankerreactie, oppervlakteontsteking
+END
+
+PROCES_TECH
+oefening op mengen van 2 luchtstromen, bereken volgende van gemengde luchtstroom: droge bol temperatuur, absoluut vochtgehalte, relatieve vochtigheid, massadebiet(gegeven: temperatuur, rel vocht, volumedebiet van oorspronkelijke luchtstromen en druk na menging)
+END
+
+PROCES_TECH
+Bereken NPSHa en NPSHr van het gegeven systeem (figuur)
+END
+
+PROCES_TECH
+Er zijn verschillende manieren om het debiet te regelen bij centrifugaalpompen. Geef ze, leg ze uit (ook adhv pompkarakteristieken) en geef de onderlinge verschillen.
+END
+
+PROCES_TECH
+Figuur met een pneumatisch transportsysteem:
+a) Leg kort de werking uit.
+b) Classificeren we dit systeem als overdruk, onderdruk of doorstoot en waarom?
+c) Welk apparaat wordt er gebruikt voor de filtratie? Duid aan op de figuur en leg de werking kort uit.
+END
+
+PROCES_TECH
+Situeer en leg kort uit:
+a) Natteboltemperatuur
+b) Ondersynchroon
+c) Een arm en rijk mengsel
+d) Tussenwiel
+END
+
+PROCES_TECH
+Je hebt thuis een 3x380V stroomnet met 4 leidingen.
+a) Je hebt toestellen die 220V vereisen, hoe sluit je deze aan?
+b) Je koopt een houtbewerkingsmachine die een drie fase 220V vereist.
+Deze kan in ster of driehoek geschakeld worden. Welke schakeling gebruik je en waarom? Verduidelijk met een tekening.
+END
+
+PROCES_TECH
+a) NPSHa berekenen van een systeem.
+b) Wat is de maximale NPSHr met de vereiste marges?
+END
+
+PROCES_TECH
+Werking van tweetaktmotor, voor-en nadelen tov viertakt
+END
+
+PROCES_TECH
+Afleiding van aanzuighoogte
+END
+
+PROCES_TECH
+Foto van scrollcompressor: wat, hoe classificeren? hoe werkt het? voordelen?
+END
+
+PROCES_TECH
+Kort uitleggen: sterschakeling, oppervlakteontbranding en inductiegenerator
+END
+
+PROCES_TECH
+Bij centrifugaalpompen kan cavitatie vermeden worden door de pomp op de correcte geometrische hoogte te plaatsen.
+a) Leg uitvoerig uit aan welk criterium de pomp moet voldoen om het fenomeen te vermijden.
+b) Toon aan dat je via dit criterium de juiste geometrische hoogte van de pomp kan berekenen.
+END
+
+PROCES_TECH
+Wanneer bulkgoederen getransporteerd worden in horizontale leidingen, stelt men vast dat verschillende stromingsregimes optreden.
+a) Wat zijn de 2 belangrijkste parameters die het stromingsregime bepalen?
+b) Leg aan de hand van een grafiek uit welke deze stromingsregimes zijn en wanneer ze optreden.
+END
+
+PROCES_TECH
+Onderstaande figuur toont een schematische voorstelling van een apparaat met ruime toepassing (wisselstroominductiemotor)
+a) Welk apparaat is dit?
+b) Benoem de belangrijkste onderdelen en leg de werkwijze uit.
+END
+
+PROCES_TECH
+Een windturbine heeft een theoretische maximumefficiëntie.
+Leg uit en leidt dit theoretisch maximum af.
+END
+
+PROCES_TECH
+oefening over koeling: T_1,db= 34°C, relatieve vochtgehalte= 40%, v=16 m/s, d=40cm, P=1000kJ/min, p=1 atm. Bepaal T_db, T_nb, relatieve vochtgehalte, absolute vochtgehalte en snelheid van de lucht die uit de koeling stroomt.
+END
+
+PROCES_TECH
+6. Oefening over waterkrachtcentrale (met gegeven tekening): Q= 100 000m^3/h, d=3m, l=300m, n_turbine=87%, n_generator=91%, T_water=15°C, h=200m.
+a) Wat zijn de aparte en totale wrijvingsverliezen?
+b) efficiëntie van centrale?
+c) Geproduceerd elektrisch vermogen?
+d) Hoeveel gezinnen kan deze centrale van elektriciteit voorzien? (als 3500 kWh/jaar per gezin)
+END
+
+PROCES_TECH
+Bij de plaatsing van pompen moet rekening gehouden met een fenomeen, met welk?
+Leg het criterium waar de pomp aan moet voldoen uitvoerig uit.
+Bewijs dat je aan de hand hiervan de geometrische hoogte van de pomp kan bepalen.
+END
+
+PROCES_TECH
+Wanneer bulkgoederen getransporteerd worden in horizontale leidingen, stelt men vast dat verschillende stromingsregimes optreden.
+a) Wat zijn de 2 belangrijkste parameters die het stromingsregime bepalen?
+b) Leg aan de hand van een grafiek uit welke deze stromingsregimes zijn en wanneer ze optreden.
+END
+
+PROCES_TECH
+Onderstaande figuur toont een schematische voorstelling van een apparaat met ruime toepassing (wisselstroominductiemotor)
+a) Welk apparaat is dit?
+b) Benoem de belangrijkste onderdelen en leg de werkwijze uit.
+END
+
+PROCES_TECH
+Een windturbine heeft een theoretische maximumefficiëntie.
+Leg uit en leidt dit theoretisch maximum af.
+END
+
+PROCES_TECH
+Mixing van luchtstromen waarna de stroom gekoeld werd.
+Hoeveel warmte wordt onttrokken? (Met enkele gegevens zoals RV,temperatuur gegeven aan inlaten en uitlaat)
+END
+
+PROCES_TECH
+2 reservoirs verbonden aan elkaar via leidingen van verschillende dikte, diffusor, vernauwer, warmtewisselaar, pomp, 2 soorten kleppen en 3 ellenboogstukken (te zien op tekening).
+a) Definieer alle energieverliezen.
+b) Bereken het netto pompvermogen als de pomp een efficiëntie van 83% heeft.
+END
+
+PROCES_TECH
+Aantal huishoudens en kWh per jaar voor een huishouden gegeven.
+Met een bepaalde luchtsnelheid en temperatuur gegeven, hoeveel windmolens met een diameter van 85m zijn er dan nodig om alle huishoudens van stroom te voorzien?
+END
+
+PROCES_TECH
+het verschil tussen natte- en drogeboltemperatuur uitleggen + afleiden hoe je de relatieve en absolute vochtigheid bepaalt van vochtige lucht wanneer die door dit kanaal passeert
+(gegeven: die figuur in de cursus bij de afleiding van natteboltemperatuur).
+END
+
+PROCES_TECH
+Begrippen kort uitleggen:
+sterschakeling, common rail injection, ankerreactie, een motor draait ondersynchroon
+END
+
+PROCES_TECH
+Parabolische trogzonnecollector uitleggen en formule afleiden voor de efficiëntie ervan
+END
+
+PROCES_TECH
+Debietregeling bij centrifugaalpompen: welke manieren zijn er en leg ze uit
+END
+
+
+PROCES_TECH
+systeem met 2 inlaten en 1 uitlaat: hoeveel warmte moet worden toegevoegd aan het systeem opdat de lucht die het systeem verlaat een temperatuur heeft van 21°C?
+END
+
+PROCES_TECH
+Water (10°C) vertrekt vanuit een hydrant (5 bar) door een lange leiding (ruwheid 0,03 mm en diameter 70mm) tot op een punt dat 20 m hoger gelegen is, waar het water vrij de leiding verlaat.
+Na de hydrant, staat er een manometer met kwik in (dichtheid gegeven) en er is een bepaald hoogteverschil over de manometer (40cm).
+Tussen de 2 meetpunten van de manometer is een soort klep geplaatst. In de rest van de buis zijn er nog 2 elleboogstukken.
+Er is gevraagd om het debiet door de leiding te berekenen en de totale lengte van de buis is ook gegeven.
+END
+
+PROCES_TECH
+windmolenpark van 1km op 1km gegeven.
+In dit park kunnen we twee soorten windmolens plaatsen, ofwel die met een schoepdiameter van 40m ofwel 50m.
+De afstand tussen de windmolens onderling moet wel minstens 5 keer de schoepdiameter bedragen.
+a) welke diameter kiezen we best, 40 of 50m?
+b) 19000 gezinnen gebruiken elks jaarlijks 3500 kWh aan elektriciteit. is dit windmolenpark hiervoor geschikt?
+END
+
+PROCES_TECH
+Foto van een wisselstroommotor en een squirrel cage.
+Welk apparaat is dit? Benoem de delen en leg de werking uit.
+END
+
+PROCES_TECH
+Hoe kan je als procesingenieur bepalen bij welk debiet je pomp van type A gaat werken.
+Welke gegevens moet je van de pomp en je systeem hebben? Leg uit met een grafiek en liefst ook een formule.
+Wat gebeurt er als je pompen in serie plaatst.
+END
+
+PROCES_TECH
+Termen verklaren
+a) parabolische trogzonnecollector
+b) efficientie van een windturbine (niet de afleiding van de Betz-limiet, maar gewoon de formule en waar alles voor staat, en Betz-limiet vermelden).
+c) diffusieve verbrandingsfase
+d) indirecte injectie
+END
+
+PROCES_TECH
+Wat is evaporatieve koeling?
+Duid het ook aan op de grafiek. (lege omega-T grafiek gegeven)
+END
+
+PROCES_TECH
+Foto gegeven:
+a) Welk apparaat is dit?
+b) Leg de werking uit.
+c) Geef een toepassing waarin dit wordt gebruikt.
+END
+
+PROCES_TECH
+Hoe kan je het debiet regelen?
+Leg uit met een grafiek en benoem je curves.
+Wat gebeurt er als je gaat smoren? Duid dit ook aan op de grafiek.
+END
+
+PROCES_TECH
+Oefening uit H1: lucht op 1 atm passeert langs een kanaal met water, bereken T en relatieve vochtigheid op het einde van de kanaal
+END
+
+PROCES_TECH
+Oefening uit H2: Oefening op een leiding met warmtewisselaar, vernauwing, verwijding, inlaat, uitlaat, buizen: a) Definieer de energieverliezen. b) Bereken het netto pompvermogen als je weet dat de pomp 86% rendabel is
+END
+
+PROCES_TECH
+Oefening uit H3: windmolens: Hoeveel windmolens moet het Belgisch windmolenpark hebben om te voorzien in energie voor een aantal gezinnen? Gegeven: aantal gezinnen, energieverbruik per jaar per gezin (in kWh/jaar/gezin), massadichtheid van lucht, T van lucht, snelheid van lucht die langs de turbine stroomt
+END
+
+MOLBIO
+Beschrijf bondig (maar zo volledig mogelijk) (met schema’s en/of tekeningen) het lac operon.
+END
+
+MOLBIO
+Leg uit wat Okazaki-fragmenten zijn en hoe ze ontstaan.
+END
+
+MOLBIO
+Geef een overzicht van de verschillende DNA-bindingsmotieven en van eukaryotische transcriptiefactoren (met tekeningen en enkele voorbeelden). Wat is hun functie?
+END
+
+MOLBIO
+Is volgend primerpaar geschikt om een PCR-reactie uit te voeren? Waarom wel/niet?
+END
+
+MOLBIO
+Wat weet je over endotoxines?
+END
+
+MOLBIO
+Geef de structuurformule van adenine met nummering der atomen
+Duid aan welke groepen betrokken zijn in H-brugvorming.
+Welk atoom maakt de verbinding met ribose?
+END
+
+MOLBIO
+Bespreek het verband tussen de eigenschappen van bacteriële promotors en RNA-polymerase
+END
+
+MOLBIO
+Bespreek 'rolling cycle'
+END
+
+MOLBIO
+DNA sequentieanalyse met de methode van Sanger
+END
+
+MOLBIO
+Geef de structuur van uracil en nummer de atomen. Welke atomen doen mee met H-brugvorming? Welk atoom wordt gebonden op ribose?
+END
+
+MOLBIO
+Bespreek de secundaire structuur van tRNA. Geef aan waar het aminozuur bindt en bespreek dit proces zo uitvoerig mogelijk.
+END
+
+MOLBIO
+Bespreek de prokaryotische promotor in relatie tot het RNA polymase (structuur).
+END
+
+MOLBIO
+Zijn progesteron en nog iets, dit zijn steroïde hormonen, voorbeelden van induceerbare transcriptiefactoren? (Enkel juist of fout antwoorden, geen uitleg geven)
+END
+
+MOLBIO
+Gegeven volgende gedeeltelijke 16S rRNA sequentie: .... , welke van de volgende gedeeltelijke mRNA sequenties zal dan de transcriptie starten? Kies een antwoord en leg uit waarom. (Meerkeuze a tot b)
+END
+
+MOLBIO
+Leg de translatie-initiatie van prokaryoten uit.
+END
+
+MOLBIO
+Beschrijf uitvoerig de transciptiefactoren. Leg ook hun bindingsmotieven uit en geef van elk minstens één voorbeeld.
+END
+
+MOLBIO
+Hoe is het mogelijk dat mutaties zich voordoen zonder de aanwezigheid van mutagene stoffen? Geef ook een voorbeeld?
+END
